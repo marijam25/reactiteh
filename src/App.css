@@ -32,7 +32,18 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+#student-tbl-div {
+  margin-top: 50px;
+  width: 1500px;
+  margin-left: 220px;
+}
+
+#tabela-studenti {
+  padding-right: 250px;
 }

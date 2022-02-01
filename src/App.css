@@ -47,3 +47,28 @@
 #tabela-studenti {
   padding-right: 250px;
 }
+
+#forma_prijava {
+  width: 500px;
+  margin-top: 40px;
+  margin-left: 700px;
+}
+
+#dugme_sacuvaj {
+  margin-top: 15px;
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+#dugme_prijavljivanje {
+  width: 250px;
+  height: 45px;
+}
+
+#link-klasa {
+  margin-top: 50px;
+}
